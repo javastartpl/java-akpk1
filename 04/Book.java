@@ -18,7 +18,6 @@ class Book {
         this.releaseDate = releaseDate;
         this.pages = pages;
         this.publisher = publisher;
-        this.isbn = isbn;
     }
 
     void printInfo() {
